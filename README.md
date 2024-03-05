@@ -29,7 +29,7 @@ Reconstruction algorithm comparison project with CIL
 ## Collaborators
 
 Social Service Tutor
--Verena Margitta Moock
+- Verena Margitta Moock
 
 Computer Scientists
 - Adrián Aguilera Moreno
