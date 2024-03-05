@@ -32,8 +32,8 @@ Social Service Tutor
 -Verena Margitta Moock
 
 Computer Scientists
-- Adrian Aguilera Moreno
--Marco Antonio Rivera Silva
+- Adrián Aguilera Moreno
+- Marco Antonio Rivera Silva
 - Kevin Jair Torres Valencia
 
 ## Images
