@@ -17,8 +17,7 @@ Las imagenes originalmente tienen tamaño 4060x4050px, sin embargo fueron reesca
 
 ## Archivo xtekct
 El archivo puede ser modificado para fines de compatibilidad.
-Las proyecciones originales son 180, pero en realidad son 181.
-Falta reescalar medidas en el archivo
+Las proyecciones originales son 180.
 
 ---
 
@@ -41,5 +40,4 @@ The images are originally 4060x4050px in size, however they were rescaled to app
 
 ## xtekct file
 The file may be modified for compatibility purposes.
-The original projections are 180, but in reality it is 181.
-Measurements need to be rescaled in the file
+The original projections are 180.
